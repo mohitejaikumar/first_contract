@@ -1,9 +1,6 @@
 import {
   Connection,
-  Keypair,
   PublicKey,
-  SystemProgram,
-  Transaction,
   clusterApiUrl,
 } from "@solana/web3.js";
 import {
